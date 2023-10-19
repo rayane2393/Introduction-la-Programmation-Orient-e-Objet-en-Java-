@@ -6,6 +6,10 @@ Bienvenue à l'atelier Java sur la Programmation Orientée Objet ! Cet atelier d
 
 Cet atelier a pour objectif de vous familiariser avec les concepts de base de la programmation orientée objet en Java. Au cours de cet atelier, vous allez créer des classes, des objets, utiliser l'héritage et mettre en pratique le polymorphisme. Voici un aperçu de ce que vous allez apprendre :
 
+## Prérequis
+
+Avant de commencer, assurez-vous d'avoir installé Java Development Kit (JDK) sur votre ordinateur. Vous pouvez le télécharger depuis [le site officiel d'Oracle](https://www.oracle.com/java/technologies/javase-downloads.html).
+
 ## Contenu de l'Atelier
 
 1. **Exercice 1 : Création d'une Classe Simple**
@@ -37,18 +41,11 @@ Cet atelier a pour objectif de vous familiariser avec les concepts de base de la
 
 3. Suivez les instructions de chaque exercice pour accomplir les tâches assignées.
 
-## Contributions
+## Auteurs
 
-Si vous trouvez des erreurs, des incohérences ou des moyens d'améliorer cet atelier, nous vous encourageons à contribuer en créant une demande de tirage (pull request) ou en signalant des problèmes dans la section des "Issues" de ce dépôt.
+- [Rayane Memiche](rayane.memiche@epitech.eu)
+- [Rayane Memiche](rayane.memiche@epitech.eu)
 
-## Auteur
 
-- [Votre Nom](votre-email@example.com)
-
-## Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
 
 Nous espérons que cet atelier vous sera utile pour comprendre les concepts de la programmation orientée objet en Java. N'hésitez pas à nous contacter si vous avez des questions. Bon travail !
