@@ -37,14 +37,12 @@ Avant de commencer, assurez-vous d'avoir installé Java Development Kit (JDK) su
 
 1. Clonez ou téléchargez ce dépôt sur votre ordinateur.
 
-2. Accédez au répertoire de l'atelier et consultez les fichiers Markdown correspondant à chaque exercice pour obtenir des instructions détaillées.
-
 3. Suivez les instructions de chaque exercice pour accomplir les tâches assignées.
 
 ## Auteurs
 
 - [Rayane Memiche](rayane.memiche@epitech.eu)
-- [Rayane Memiche](rayane.memiche@epitech.eu)
+- [Francois Dupont](francois.dupont@epitech.eu)
 
 
 
